@@ -1,0 +1,37 @@
+Modelo de Documentação do Projeto Integrador
+
+
+1- INTRODUÇÃO:
+	1.1   
+
+
+
+
+2- Metodologias utilizadas:
+	2.1   Cronogramas propostos, com períodos em semanas.
+	2.2   Planilhas de Investimentos, custos estimados, com valores em R$.
+	2.3   Plano de Marketing.
+
+3- Desenvolvimento:
+	3.1   Ferramentas utilizadas no desenvolvimento do projeto.
+	3.2   Modelagens: ER e Fluxogramas.
+	3.3   Módulos do sistema(projetos) ou Etapas Propostas(modelagens).
+	3.4   Desenvolvimento ou criação do modelo.
+	3.5   Validação dos mídulos ou análise das integrações dos módulos.
+	3.6   Documentação do projeto / documento desenvolvido.
+
+4- Conclusões:
+	4.1   Das metas e objetivos (considerando as metas e objetivos iniciais).
+	4.2   Dos custos e despesas (apresentar planilhas finais de custos).
+	4.3   Dos cronogramas (apresentar cronogramas finais realizados)
+	4.4   Dos resultados do projeto (contemplar todo o contexto do projeto)
+
+5- Anexos:
+
+Observações:
+	- Espera-se algo entre 12 e 20 páginas.
+	- Apresentar somente parte das telas, do banco e dos códigos fontes.
+	- As análises corretas dos resultados são mais importantes que os resultados em si.
+	- As planilhas de custo devem conter valores em R$.
+	- Os cronogramas devem ser em semanas / meses.
+	- A revisão bibliográfica deve abordar itens da computação relacionados ao tema.
